@@ -1,41 +1,35 @@
-````md
-<div align="center">
+# <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:0F172A,50:1E1B4B,100:312E81&text=Pranjal%20Malviya&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,50:6A0DAD,100:8A2BE2&text=Pranjal%20Malviya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=A970FF&center=true&vCenter=true&width=1000&lines=Python+Backend+Developer;Software+Engineering+Student;Django+%7C+PostgreSQL+%7C+REST+APIs;Building+Scalable+and+Reliable+Systems;Open+Source+Learner+and+Problem+Solver"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=C4B5FD&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Python+Backend+Developer;Django+%7C+PostgreSQL+%7C+REST+APIs;Building+Scalable+Backend+Systems;Always+Learning%2C+Always+Building"/>
+<br/>
 
-<br><br>
+![B.Tech IT](https://img.shields.io/badge/B.Tech-Information%20Technology-6A0DAD?style=for-the-badge)
+![Graduation](https://img.shields.io/badge/Graduation-2027-4B0082?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-7.5-7B68EE?style=for-the-badge)
+![Location](https://img.shields.io/badge/Indore-Madhya%20Pradesh-5D3FD3?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/B.Tech%20IT-2027-111827?style=flat-square&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-7.5-1E1B4B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Location-Indore%2C%20India-312E81?style=flat-square"/>
+<br/>
 
-<br><br>
+<a href="https://github.com/finewithpranjal">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="mailto:pranjalmalviya37@gmail.com">
-<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-6A0DAD?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/finewithpranjal">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-4B0082?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=finewithpranjal&style=flat-square&color=7C3AED)
-![](https://img.shields.io/github/followers/finewithpranjal?style=flat-square&color=7C3AED)
-![](https://img.shields.io/github/stars/finewithpranjal?style=flat-square&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=finewithpranjal\&style=for-the-badge\&color=6A0DAD)
+![](https://img.shields.io/github/followers/finewithpranjal?style=for-the-badge\&color=6A0DAD)
+![](https://img.shields.io/github/stars/finewithpranjal?style=for-the-badge\&color=6A0DAD)
 
 </div>
 
@@ -43,106 +37,110 @@
 
 # About
 
-I am a Software Engineering student focused on backend development, scalable systems, APIs, databases, and modern engineering practices.
+Software Engineering student focused on backend development, scalable application design, database systems, and modern software engineering practices. I enjoy building products from the ground up, transforming ideas into reliable applications, and continuously improving through hands-on development.
 
-My primary stack revolves around **Python, Django, PostgreSQL, Git, and REST APIs**, while continuously exploring cloud technologies, software architecture, and AI-powered applications.
-
-I enjoy transforming ideas into reliable products, solving real-world problems through software, and learning the engineering principles behind scalable systems.
+My primary expertise lies in Python backend development using Django and PostgreSQL, while actively expanding knowledge in system design, APIs, cloud technologies, DevOps workflows, and AI-powered solutions.
 
 ### Open To
 
-- Backend Development Internships
-- Software Engineering Internships
-- Open Source Contributions
-- AI-Powered Product Development
-- Engineering Collaborations
-- Developer Communities
+* Backend Development Internships
+* Software Engineering Roles
+* Open Source Contributions
+* AI & Automation Projects
+* Product Development Collaborations
+* Research & Engineering Communities
 
 ---
 
 # Tech Stack
 
-<div align="center">
-
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+</p>
 
-### Backend & Database
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=django,postgresql,sqlite"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### Tools & Platforms
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,postgresql,sqlite" />
+</p>
 
-</div>
 
 ---
 
-# Engineering Expertise
+# AI / ML Expertise
 
-| Domain | Level | Focus |
-|----------|----------|----------|
-| Backend Development | Intermediate | Django, REST APIs, Authentication |
-| Database Design | Intermediate | PostgreSQL, SQLite |
-| Software Engineering | Intermediate | OOP, Clean Code, Architecture |
-| AI Applications | Intermediate | Recommendation Systems, Automation |
-| Computer Vision | Intermediate | OpenCV, Face Recognition |
-| Problem Solving | Intermediate | DSA, Algorithms |
+| Domain                 | Proficiency  | Details                                                     |
+| ---------------------- | ------------ | ----------------------------------------------------------- |
+| AI Applications        | Intermediate | Building AI-assisted educational and recommendation systems |
+| Computer Vision        | Intermediate | Face recognition, image processing, OpenCV projects         |
+| Data Processing        | Intermediate | Data handling, preprocessing, structured datasets           |
+| Automation             | Intermediate | Bots, scheduling systems, workflow automation               |
+| Recommendation Systems | Intermediate | Skill-learning recommendation platform development          |
+| Python AI Ecosystem    | Intermediate | OpenCV, automation workflows, backend integration           |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Smart Vote AI</b></summary>
+<summary><strong>Smart Vote AI</strong></summary>
 
-### Facial Recognition Based Voting Platform
+### Secure Facial Recognition Voting Platform
 
-| Category | Details |
-|-----------|-----------|
-| Stack | Python, OpenCV, SQLite, HTML, CSS |
-| Security | Duplicate Vote Prevention |
-| Architecture | Computer Vision + Backend Validation |
-| Impact | Academic & Local Voting Prototype |
-| Status | Active |
+| Metric      | Details                                                      |
+| ----------- | ------------------------------------------------------------ |
+| Stack       | Python, OpenCV, SQLite, HTML, CSS                            |
+| Scale       | Multi-user voting workflow                                   |
+| Performance | Fast facial verification and registration                    |
+| Security    | Duplicate vote prevention mechanisms                         |
+| Impact      | Digital voting prototype for academic and local environments |
+| Repository  | Available on GitHub                                          |
 
-Smart Vote AI is a facial-recognition-based voting platform designed to improve verification and reduce duplicate voting in controlled environments. The system combines identity validation with computer vision workflows to create a secure voting experience.
-
-</details>
-
-<details>
-<summary><b>User Registration & Login System</b></summary>
-
-### Authentication & Persistence Engine
-
-| Category | Details |
-|-----------|-----------|
-| Stack | Python, JSON |
-| Security | Login Validation |
-| Architecture | File-Based Storage |
-| Impact | Authentication Learning Project |
-| Status | Completed |
-
-A lightweight authentication platform implementing user registration, login validation, credential management, and persistent storage using structured JSON data.
+Designed and developed a facial-recognition-based voting platform focused on reducing duplicate voting in controlled election environments. The solution handles voter registration, identity verification, and voting workflows through computer vision techniques and backend validation.
 
 </details>
 
 <details>
-<summary><b>Water Reminder Telegram Bot</b></summary>
+<summary><strong>User Registration & Login System</strong></summary>
 
-### Automation & Productivity Tool
+### Authentication & Data Persistence System
 
-| Category | Details |
-|-----------|-----------|
-| Stack | Python, Telegram API |
-| Automation | Scheduled Notifications |
-| Architecture | Event Driven |
-| Impact | Personal Productivity |
-| Status | Completed |
+| Metric      | Details                                            |
+| ----------- | -------------------------------------------------- |
+| Stack       | Python, JSON                                       |
+| Scale       | Multi-user terminal authentication                 |
+| Performance | Lightweight and efficient                          |
+| Security    | Credential validation workflow                     |
+| Impact      | Learning-focused authentication implementation     |
+| Repository  | https://github.com/finewithpranjal/Login-with-JSON |
 
-An automated Telegram bot that delivers hydration reminders using scheduling workflows and API integration while exploring automation engineering concepts.
+Built a terminal-based authentication platform implementing registration, login validation, structured storage, and persistent user management using JSON data structures.
+
+</details>
+
+<details>
+<summary><strong>Water Reminder Telegram Bot</strong></summary>
+
+### Automation & Notification System
+
+| Metric      | Details                                        |
+| ----------- | ---------------------------------------------- |
+| Stack       | Python, Telegram Bot API                       |
+| Scale       | Automated reminder delivery                    |
+| Performance | Scheduled execution workflow                   |
+| Security    | API-driven communication                       |
+| Impact      | Daily productivity and wellness automation     |
+| Repository  | https://github.com/finewithpranjal/MiniProject |
+
+Developed an automated hydration reminder bot leveraging event-driven scheduling and Telegram APIs to deliver periodic notifications while exploring automation architecture and workflow design.
 
 </details>
 
@@ -150,61 +148,38 @@ An automated Telegram bot that delivers hydration reminders using scheduling wor
 
 # Experience
 
-## Project Lead
-### Malwa Institute of Technology
+## Project Lead — Malwa Institute of Technology
 
-**2025 — Present**
+**2025 – Present**
 
-Leading academic software engineering projects focused on AI solutions, backend systems, and collaborative development.
+Leading academic and technology-driven initiatives involving AI and software engineering projects while coordinating planning, execution, documentation, and delivery.
 
-#### Responsibilities
+### Scope of Work
 
-- Led engineering teams of 4–6 members.
-- Conducted Python and SQL code reviews.
-- Managed planning, execution, and delivery.
-- Prepared technical documentation.
-- Delivered project presentations.
-- Coordinated AI-powered recommendation systems.
+* Led teams of 4–6 members on AI-focused projects.
+* Conducted Python and SQL code reviews.
+* Managed project planning and milestone tracking.
+* Delivered technical documentation and presentations.
+* Coordinated development of AI-based recommendation solutions.
+* Improved development workflow and team collaboration.
 
-**Skills**
-
-`Python` `SQL` `Leadership` `Project Management` `Software Engineering`
+**Skills:** `Python` `SQL` `Leadership` `Project Management` `AI Projects` `Software Engineering`
 
 ---
 
 # Achievements
 
-<div align="center">
-
-| Recognition | Details |
-|-------------|-------------|
-| Problem Solving | Solved 50+ coding challenges |
-| Leadership | Led technical academic projects |
-| Deployment | Successfully deployed project prototypes |
-| Continuous Learning | Active software engineering learner |
-| Development | Consistent GitHub project building |
-
-</div>
+| Recognition          | Details                                                   |
+| -------------------- | --------------------------------------------------------- |
+| Problem Solving      | Solved 50+ coding challenges across coding platforms      |
+| Project Deployment   | Successfully deployed public project prototypes           |
+| Technical Leadership | Led academic software engineering teams                   |
+| Continuous Learning  | Consistent focus on backend engineering and system design |
+| Open Source Journey  | Active GitHub project development and contributions       |
 
 ---
 
-# Certifications
 
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Foundations-111827?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Database-111827?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-111827?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-111827?style=for-the-badge&logo=cisco)
 
 ---
 
@@ -212,21 +187,15 @@ Leading academic software engineering projects focused on AI solutions, backend 
 
 <div align="center">
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-111827?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/thepranjalmalviya/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="YOUR_GFG_URL">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-111827?style=for-the-badge&logo=geeksforgeeks"/>
+<a href="https://www.geeksforgeeks.org/profile/pranjalmalv3uka">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
-<a href="YOUR_HACKERRANK_URL">
-<img src="https://img.shields.io/badge/HackerRank-Skills-111827?style=for-the-badge&logo=hackerrank"/>
-</a>
 
-<a href="YOUR_CODECHEF_URL">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-111827?style=for-the-badge"/>
-</a>
 
 </div>
 
@@ -236,17 +205,11 @@ Leading academic software engineering projects focused on AI solutions, backend 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=finewithpranjal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=finewithpranjal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=finewithpranjal&theme=tokyonight&hide_border=true&background=00000000"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=finewithpranjal&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finewithpranjal&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finewithpranjal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -256,7 +219,7 @@ Leading academic software engineering projects focused on AI solutions, backend 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=finewithpranjal&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=finewithpranjal&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -266,7 +229,17 @@ Leading academic software engineering projects focused on AI solutions, backend 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=finewithpranjal&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=finewithpranjal&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -277,26 +250,29 @@ Leading academic software engineering projects focused on AI solutions, backend 
 ```yaml
 learning:
   - Advanced Django
-  - PostgreSQL
-  - REST API Design
+  - REST API Development
+  - PostgreSQL Optimization
   - System Design
-  - Cloud Fundamentals
+  - Data Structures & Algorithms
 
 building:
-  - Backend Projects
-  - AI Applications
-  - Open Source Portfolio
+  - Backend Engineering Projects
+  - AI Powered Applications
+  - Developer Portfolio
+  - Open Source Contributions
 
 exploring:
-  - DevOps
-  - Scalable Systems
+  - Cloud Computing
+  - DevOps Workflows
+  - Scalable Architecture
   - Product Engineering
 
 open_to:
   - Internships
-  - Backend Engineering Roles
+  - Backend Development Roles
   - Open Source Collaboration
-````
+  - Engineering Communities
+```
 
 ---
 
@@ -305,19 +281,15 @@ open_to:
 <div align="center">
 
 <a href="mailto:pranjalmalviya37@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-pranjalmalviya37%40gmail.com-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/finewithpranjal">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-finewithpranjal-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/finewithpranjal">
+<img src="https://img.shields.io/badge/Portfolio-Projects-6A0DAD?style=for-the-badge"/>
 </a>
 
 </div>
@@ -326,11 +298,8 @@ open_to:
 
 <div align="center">
 
-### Engineering elegant systems through simplicity, reliability, and continuous learning.
+### *Continuously learning.*
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0F172A,50:1E1B4B,100:312E81&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4B0082,50:6A0DAD,100:8A2BE2"/>
 
 </div>
-```
