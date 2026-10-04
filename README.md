@@ -88,7 +88,7 @@ My primary expertise lies in Python backend development using Django and Postgre
 
 ---
 
-# Featured Projects
+# Prectice Projects
 
 <details>
 <summary><strong>Smart Vote AI</strong></summary>
@@ -111,7 +111,7 @@ Designed and developed a facial-recognition-based voting platform focused on red
 <details>
 <summary><strong>User Registration & Login System</strong></summary>
 
-### Authentication & Data Persistence System
+### JSON Based user login programme in python (learning Project)
 
 | Metric      | Details                                            |
 | ----------- | -------------------------------------------------- |
